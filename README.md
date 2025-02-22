@@ -3,7 +3,7 @@
 This is a simple **Frontend Mentor** challenge for practice. The project is fully responsive and built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://amitkumar1590.github.io/Pricing-component-with-toggle/)
+🔗 [View Live Site](https://amitfrontend.github.io/Pricing-component-with-toggle/)
 
 ## 📌 Technologies Used
 - HTML
